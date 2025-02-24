@@ -9,7 +9,7 @@ Welcome to **Hack & Slice!** This is a 1-month coding challenge where you'll bui
 Follow these steps carefully to ensure your project is successfully submitted:  
 
 ### **Step 1: Submit the Airtable Form**  
-1. Click on this link: **[Airtable Submission Form](https://airtable.com/appSUAc40CDu6bDAp/pagvu2xGhfsMC8AOL/form)**
+1. Click on this link: **[YSWS Pizza Grant Form](https://airtable.com/appSUAc40CDu6bDAp/pagvu2xGhfsMC8AOL/form)**
 2. **Email**: Enter your email address. *(Make sure to use the same email throughout the process.)*
 3. **Club**: Enter **Youth Code Camp**.  
 4. **Project Field**: Choose **Boba Drops**.  
