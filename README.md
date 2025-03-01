@@ -9,7 +9,7 @@ Welcome to **Hack & Slice!** This is a 1-month coding challenge where you'll bui
 Follow these steps carefully to ensure your project is successfully submitted:  
 
 ### **Step 1: Submit the Boba Drops Form**  
-1. Click on this link: **[Boba Drops Form]()**
+1. Click on this link: **[Boba Drops Form](https://forms.hackclub.com/t/wqQMhgXydLus)**
 2. **Email**: Enter your email address. *(Make sure to use the same email throughout the process.)*
 3. **Event Code**: Email `shyakachaste1@gmail.com` if u don't know the Event Code .  
 4. Submit the form. ✅  
