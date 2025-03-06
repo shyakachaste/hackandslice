@@ -1,10 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
 body {
     font-family: "JetBrains Mono", monospace;
     background-color: #FCEFE3;
     text-align: center;
     padding: 20px;
     color: #D44B20;
+}
+
+nav {
+    background-color: #dd3b26;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #eaaf2e;
 }
 
 header {
@@ -61,12 +92,6 @@ h1 {
     gap: 10px;
 }
 
-.rules li span {
-    font-size: 1.5rem;
-}
-
-
-
 .cta {
     margin: 20px 0;
 }
@@ -109,6 +134,7 @@ h1 {
     transform: scale(1.1);
 }
 
+
 footer {
     margin-top: 30px;
     font-size: 1.1rem;
@@ -120,9 +146,8 @@ footer a{
     font-weight: bold;
 }
 
-
 @media (max-width: 768px) {
-    .rules {
+    .rules, .projects {
         max-width: 90%;
         text-align: center;
     }
